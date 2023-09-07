@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # calculator_1.py
 def add(a, b):
     """Function to add two numbers."""
